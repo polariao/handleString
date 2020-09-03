@@ -1,0 +1,14 @@
+{
+    "name": "polariao/handlestring",
+    "description": "test project fror handle string",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "polariao",
+            "email": "polariao@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
